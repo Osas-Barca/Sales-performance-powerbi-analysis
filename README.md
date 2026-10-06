@@ -1,6 +1,6 @@
 # Superstore Sales Performance & Regional Analysis Dashboard
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](project snippet.png)
 
 ## 📌 Executive Summary
 This interactive Power BI dashboard provides an end-to-end analysis of retail sales performance, tracking **$2.30M** in total revenue and **$286.40K** in total profit across multiple regions and product segments. The dashboard is designed to help executive stakeholders quickly evaluate sales trends over time, monitor key financial metrics, identify top-performing product sub-categories, and assess geographic distribution.
